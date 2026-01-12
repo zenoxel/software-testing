@@ -131,23 +131,6 @@ Dự án bao gồm **17 test cases**:
 [INFO] ------------------------------------------------------------------------
 ```
 
-## Mục tiêu học tập
-
-Thông qua bài tập này, sinh viên sẽ học được:
-
-1. **Viết Unit Test**: Sử dụng JUnit 5 để viết test case
-2. **Phân tích test case**: Xác định các trường hợp bình thường, biên, ngoại lệ
-3. **Assertion**: Sử dụng `assertEquals()` và các phương thức assertion khác
-4. **Quản lý project**: Sử dụng Maven để quản lý dependencies và chạy test
-5. **TDD (Test-Driven Development)**: Tư duy viết test trước khi viết code
-
-## Lịch sử phát triển
-
-- **Issue #1**: Viết hàm `countExcellentStudents()`
-- **Issue #2**: Viết hàm `calculateValidAverage()`
-- **Issue #3**: Viết test cho 2 hàm trên
-- **Issue #4**: Viết tài liệu README.md
-
 ## Tài liệu tham khảo
 
 - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
